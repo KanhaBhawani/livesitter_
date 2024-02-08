@@ -1,0 +1,23 @@
+/* VideoPlayer.css */
+
+.video-container {
+    margin-bottom: 20px;
+  }
+  .video-title {
+    text-align: center;
+  }
+  .video-player {
+    width: 100%;
+  }
+  
+  .video-area{
+    position: relative;
+  }
+#content{
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bolder;
+  font-size: medium;
+  color: azure;
+}
